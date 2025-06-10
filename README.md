@@ -68,6 +68,7 @@ cd <your-project-directory>
     ORIGIN=*
     CREDENTIALS=true
 
+    # PUSHER
     PUSHER_APP_ID=APP_ID
     PUSHER_KEY=KEY
     PUSHER_SECRET=SECRET
