@@ -92,3 +92,13 @@ cd <your-project-directory>
     ```bash
     npm run dev
     ```
+
+#### Example Link
+- Producer
+  https://github.com/KishorNaik/Sol_Pusher_Channels_Demo_ExpressJs/blob/main/api/src/modules/producers/apps/features/v1/pubSubDemo/endpoint/index.ts
+
+- Consumer
+  https://github.com/KishorNaik/Sol_Pusher_Channels_Demo_ExpressJs/blob/main/api/src/modules/consumers/apps/features/v1/pubSubDemo/events/index.ts
+
+#### Pusher Helper
+- https://github.com/KishorNaik/Sol_Pusher_Channels_Demo_ExpressJs/tree/main/utils/src/core/shared/utils/helpers/pusher
